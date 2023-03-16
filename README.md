@@ -16,15 +16,15 @@ REST-API project thanks to which the cinema has the ability to manage films, act
 
 # Than you should provide your own secret information and store it in your .env file
 
-- set POSTGRES_HOST=your db hostname
+- set POSTGRES_HOST="your db hostname"
 
-- set DB_NAME=your db name
+- set DB_NAME="your db name"
 
-- set POSTGRES_USER=your db username
+- set POSTGRES_USER="your db username"
 
-- set POSTGRES_PASSWORD=your db user password
+- set POSTGRES_PASSWORD="your db user password"
 
-- set DJANGO_SECRET_KEY=your secret key
+- set DJANGO_SECRET_KEY="your secret key"
 
 # Finally
 
