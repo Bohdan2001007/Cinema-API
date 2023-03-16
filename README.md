@@ -64,5 +64,6 @@ REST-API project thanks to which the cinema has the ability to manage films, act
 
 # Run project with docker 
 
-docker-compose build
-docker-compose up
+- docker-compose build
+
+- docker-compose up
