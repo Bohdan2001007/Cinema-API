@@ -18,7 +18,7 @@ REST-API project thanks to which the cinema has the ability to manage films, act
 
 - set POSTGRES_HOST="your db hostname"
 
-- set DB_NAME="your db name"
+- set POSTGRES_DB="your db name"
 
 - set POSTGRES_USER="your db username"
 
