@@ -31,3 +31,38 @@ REST-API project thanks to which the cinema has the ability to manage films, act
 - python manage.py migrate
 
 - python manage.py runserver
+
+# Access
+
+- create your own user via /api/user/register/
+
+- get access token via /api/user/token/
+
+# Features
+
+- JWT authenticated
+
+- Admin panel;
+
+- convenient documentation swagger and redoc;
+
+- Managing orders and tickets;
+
+- Creating movies with actors and genres;
+
+- Creating cinema halls;
+
+- Adding movie sessions;
+
+- Filtering movies and movie sessions.
+
+# API documentation
+
+- api/doc/swagger/
+
+- api/doc/redoc/
+
+# Run project with docker 
+
+docker-compose build
+docker-compose up
