@@ -16,7 +16,7 @@ REST-API project thanks to which the cinema has the ability to manage films, act
 
 # Than you should provide your own secret information and store it in your .env file
 
-See how to fill the .env file in env_sample
+See how to fill the .env file in .env_sample
 
 - set POSTGRES_HOST="your db hostname"
 
