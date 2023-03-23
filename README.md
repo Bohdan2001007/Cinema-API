@@ -18,15 +18,15 @@ REST-API project thanks to which the cinema has the ability to manage films, act
 
 See how to fill the .env file in .env_sample
 
-- set POSTGRES_HOST="your db hostname"
+- POSTGRES_HOST="your db hostname"
 
-- set POSTGRES_DB="your db name"
+- POSTGRES_DB="your db name"
 
-- set POSTGRES_USER="your db username"
+- POSTGRES_USER="your db username"
 
-- set POSTGRES_PASSWORD="your db user password"
+- POSTGRES_PASSWORD="your db user password"
 
-- set DJANGO_SECRET_KEY="your secret key"
+- DJANGO_SECRET_KEY="your secret key"
 
 # Finally
 
